@@ -6,6 +6,6 @@ function AboutMe(props) {
         <p>My interests are gaming, fitness, and all things technology.</p>
       </section>
     );
-  }
+}
   
-  export default AboutMe;
+export default AboutMe;
