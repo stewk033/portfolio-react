@@ -12,7 +12,7 @@ function App() {
 
   const renderPage = () => {
     const map = new Map();
-    map.set('about-me', <AboutMe />);
+    map.set('about me', <AboutMe />);
     map.set('portfolio', <Portfolio />);
     map.set('resume', <Resume />);
     map.set('contact', <Contact />);
