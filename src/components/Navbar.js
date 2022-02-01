@@ -27,7 +27,7 @@ function Navbar({ currentPage, setCurrentPage }) {
     <nav className="nav">
       <a href="./" className="nav__logo" onClick={() => setCurrentPage('')}>
         <img src={logo} alt="" />
-        <h1>Kevin's Portfolio</h1>
+        <h1>Kevin Stewart</h1>
       </a>
       <ul className={`nav__links ${toggle && 'open'}`}>{links}</ul>
       <svg onClick={() => setToggle(!toggle)} viewBox="0 0 100 80" width="40" height="40">

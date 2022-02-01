@@ -3,7 +3,7 @@ header {
     background-color: var(--clr-drk-grey);
     border-top: 2px solid black;
     border-bottom: 2px solid black;
-    font-family: "Audiowide", cursive;
+    font-family: "Audiowide";
 }
   
 .nav {

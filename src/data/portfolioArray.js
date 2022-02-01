@@ -1,10 +1,12 @@
+import imgHeroverse from '../images/heroverselogo.png';
+import imgPlagueDocs from '../images/plaguedocslogo.png'
 
 export const portfolioArray = [
     {
       id: '',
       url: 'https://github.com/stewk033/heroverse',
       title: 'HeroVerse',
-      imgSrc: 'https://github.com/stewk033/heroverse/blob/main/assets/images/heroverselogo.png',
+      imgSrc: imgHeroverse,
       alt: 'heroverse logo',
       languages: 'Bootstrap | JQuery | localStorage',
     },
@@ -12,7 +14,7 @@ export const portfolioArray = [
       id: '',
       url: 'https://github.com/stewk033/plague-docs',
       title: 'Plague Docs',
-      imgSrc: 'https://github.com/stewk033/plague-docs/blob/main/assets/images/plaguedocslogo.png',
+      imgSrc: imgPlagueDocs,
       alt: 'Plague Docs logo',
       languages: 'React | JavaScript | APIs',
     },
