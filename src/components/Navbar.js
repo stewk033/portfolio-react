@@ -6,7 +6,7 @@ import logo from '../images/logo.png';
 function Navbar({ currentPage, setCurrentPage }) {
   const [toggle, setToggle] = useState(false);
 
-  const links = ['about-me', 'portfolio', 'resume', 'contact'].map((page, i) => {
+  const links = ['about me', 'portfolio', 'resume', 'contact'].map((page, i) => {
     return (
       <li key={i}>
         <a
