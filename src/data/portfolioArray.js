@@ -16,11 +16,11 @@ export const portfolioArray = [
     },
     {
         id: '',
-        url: 'https://github.com/stewk033/plague-docs',
+        url: 'https://plague-docs.herokuapp.com/',
         title: 'Plague Docs',
         imgSrc: imgPlagueDocs,
         alt: 'Plague Docs logo',
-        languages: 'React | JavaScript | APIs',
+        languages: 'React | GraphQL | JWT',
     },
     {
         id: '',
