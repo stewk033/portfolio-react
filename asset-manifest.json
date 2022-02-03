@@ -1,20 +1,24 @@
 {
   "files": {
-    "main.css": "/portfolio-react/static/css/main.3de219b6.css",
-    "main.js": "/portfolio-react/static/js/main.0b898ec8.js",
+    "main.css": "/portfolio-react/static/css/main.a337866d.css",
+    "main.js": "/portfolio-react/static/js/main.20ad0847.js",
     "static/js/787.aeca62f9.chunk.js": "/portfolio-react/static/js/787.aeca62f9.chunk.js",
     "static/media/resume.png": "/portfolio-react/static/media/resume.4225f6f137635ea12b1d.png",
     "static/media/resume.pdf": "/portfolio-react/static/media/resume.790bd5d59ba6fb20aaa0.pdf",
-    "static/media/plaguedocslogo.png": "/portfolio-react/static/media/plaguedocslogo.5b3351bb3ec5713952d3.png",
-    "static/media/logo.png": "/portfolio-react/static/media/logo.c6cdda779e8956a6fd72.png",
-    "static/media/heroverselogo.png": "/portfolio-react/static/media/heroverselogo.973a9bd356e156dcd4dc.png",
+    "static/media/mario.png": "/portfolio-react/static/media/mario.0d4a8456f09d562eb0e7.png",
+    "static/media/heroverselogo.png": "/portfolio-react/static/media/heroverselogo.8e0f6ebbaee36a30f3d9.png",
+    "static/media/gymbuddy.jpeg": "/portfolio-react/static/media/gymbuddy.8b755877dbe4c9860101.jpeg",
+    "static/media/weatherdashboard.png": "/portfolio-react/static/media/weatherdashboard.6c91b263b521216a4055.png",
+    "static/media/logo.png": "/portfolio-react/static/media/logo.534dec9558effdccb42d.png",
+    "static/media/plaguedocslogo.png": "/portfolio-react/static/media/plaguedocslogo.312511db9bbd28c3aa5b.png",
+    "static/media/notetaker.png": "/portfolio-react/static/media/notetaker.7c083396766fed07af52.png",
     "index.html": "/portfolio-react/index.html",
-    "main.3de219b6.css.map": "/portfolio-react/static/css/main.3de219b6.css.map",
-    "main.0b898ec8.js.map": "/portfolio-react/static/js/main.0b898ec8.js.map",
+    "main.a337866d.css.map": "/portfolio-react/static/css/main.a337866d.css.map",
+    "main.20ad0847.js.map": "/portfolio-react/static/js/main.20ad0847.js.map",
     "787.aeca62f9.chunk.js.map": "/portfolio-react/static/js/787.aeca62f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3de219b6.css",
-    "static/js/main.0b898ec8.js"
+    "static/css/main.a337866d.css",
+    "static/js/main.20ad0847.js"
   ]
 }
