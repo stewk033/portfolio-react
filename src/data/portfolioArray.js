@@ -16,7 +16,7 @@ export const portfolioArray = [
     },
     {
         id: '',
-        url: 'https://plague-docs.herokuapp.com/',
+        url: 'https://pl4gu3-d0cs.herokuapp.com/',
         title: 'Plague Docs',
         imgSrc: imgPlagueDocs,
         alt: 'Plague Docs logo',
